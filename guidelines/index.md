@@ -3,5 +3,5 @@ title: Guidelines
 layout: page
 ---
 
-- licensing
-- technical requirements
+-   licensing
+-   technical requirements
