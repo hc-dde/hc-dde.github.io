@@ -1,5 +1,11 @@
+# Dependencies
+kramdown:
+  input: GFM
+#markdown: redcarpet
 
+highlighter: rouge
 
+#:         true
 
 # Permalinks
 permalink:        pretty
@@ -9,14 +15,15 @@ title:            Holy Cross Digital Diplomatic Editions
 tagline:          ''
 description:      ''
 
-
 baseurl: ''
-
 
 author:
   name:           'Neel Smith'
 
+paginate:         5
 
+
+# Links:
 links:
   - title: Home
     url: /
