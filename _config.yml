@@ -1,0 +1,27 @@
+
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Holy Cross Digital Diplomatic Editions
+tagline:          ''
+description:      ''
+
+
+baseurl: ''
+
+
+author:
+  name:           'Neel Smith'
+
+
+links:
+  - title: Home
+    url: /
+  - title: Guidelines
+    url: /guidelines
+  - title: Data repository
+    url: https://github.com/hc-dde/editions/
+    external: true
