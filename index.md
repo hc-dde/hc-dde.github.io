@@ -13,6 +13,6 @@ layout: page
 -   simple data formats easily re-used in many technical environments
 
 
-## Coming in 2018
+## Coming in 2018-2019
 
 -   publication series through the College of the Holy Cross' [Cross Works](http://crossworks.holycross.edu/peer_review_list.html) institutional repository
