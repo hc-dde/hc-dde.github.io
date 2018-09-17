@@ -11,7 +11,7 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Holy Cross Digital Diplomatic Editions
+title:            Holy Cross Documented Diplomatic Editions
 tagline:          ''
 description:      ''
 
@@ -31,4 +31,7 @@ links:
     url: /guidelines
   - title: Data repository
     url: https://github.com/hc-dde/editions/
+    external: true
+  - title: Under review
+    url: https://github.com/hc-dde/under-review/
     external: true
