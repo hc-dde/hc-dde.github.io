@@ -1,5 +1,5 @@
 ---
-title: Digital Diplomatic Editions
+title: Documented Diplomatic Editions
 layout: page
 ---
 
